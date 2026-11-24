@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+lagarto,lagarto1.png,OK,534,374,224,224,0.043,0.984,APROBADA
+lagarto,lagarto2.png,OK,736,416,224,224,0.004,0.937,APROBADA
+lagarto,lagarto3.png,OK,580,344,224,224,0.0,1.0,APROBADA
+lagarto,lagarto4.png,OK,638,480,224,224,0.0,0.984,APROBADA
+lagarto,lagarto5.png,OK,738,351,224,224,0.0,1.0,APROBADA
+serpiente,serpiente1.png,OK,678,452,224,224,0.008,0.976,APROBADA
+serpiente,serpiente2.png,OK,738,414,224,224,0.0,1.0,APROBADA
+serpiente,serpiente3.png,OK,738,414,224,224,0.0,0.996,APROBADA
+serpiente,serpiente4.png,OK,701,436,224,224,0.0,0.984,APROBADA
+serpiente,serpiente5.png,OK,515,388,224,224,0.008,0.965,APROBADA
